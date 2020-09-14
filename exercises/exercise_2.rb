@@ -12,3 +12,4 @@ puts "----------"
   @store1.update(name: "Kevin Havertz")
   @store1.save
   
+  pp @store1
